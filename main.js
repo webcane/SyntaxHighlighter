@@ -15,6 +15,7 @@ debugger;
                url + 'scripts/shBrushJava.js',
                url + 'scripts/shBrushJScript.js',
                url + 'styles/shCore.css',
+               url + '/styles/shThemeDefault.css',               
                url + 'scripts/shBrushXml.js',
                url + 'styles/shCoreDefault.css'];
       
