@@ -12,11 +12,10 @@ debugger;
     } else if (!window.SyntaxHighlighterLoading) {
         window.SyntaxHighlighterLoading = true;
         arr = [url + 'scripts/shCore.js',
-               url + 'scripts/shBrushCSharp.js',
+               url + 'scripts/shBrushJava.js',
                url + 'scripts/shBrushJScript.js',
                url + 'styles/shCore.css',
                url + 'scripts/shBrushXml.js',
-               'https://raw.github.com/scottdensmore/ObjectiveCSyntaxHighlighter/master/scripts/shBrushObjC.js',
                url + 'styles/shCoreDefault.css'];
       
         len = arr.length;
