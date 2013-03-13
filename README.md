@@ -27,5 +27,5 @@ For highlight.js using [highlighterLoading.js](https://github.com/webcane/Syntax
 
 Example:
 ```html
-<script src="https://raw.github.com/webcane/SyntaxHighlighter/master/highlighterHighlight.js" type="text/javascript"></script>
+<script src="https://raw.github.com/webcane/SyntaxHighlighter/master/highlighterLoading.js" type="text/javascript"></script>
 ```
