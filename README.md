@@ -15,6 +15,14 @@ For SyntaxHighlighter using [main.js](https://github.com/webcane/SyntaxHighlight
 
 Example:
 ```html
+<pre class="brush: java">
+public interface Comparable<T> {
+    public int compareTo(T o);
+}
+</pre>
+```
+
+```html
 <script src="https://raw.github.com/webcane/SyntaxHighlighter/master/main.js" type="text/javascript"></script>
 ```
 
@@ -26,6 +34,14 @@ highlight.js
 For highlight.js using [highlighterLoading.js](https://github.com/webcane/SyntaxHighlighter/blob/master/highlighterLoading.js)
 
 Example:
+example with autodetecting:
+```html
+<pre><code>
+public interface Comparable<T> {
+    public int compareTo(T o);
+}
+</code></pre>
+```
 ```html
 <script src="https://raw.github.com/webcane/SyntaxHighlighter/master/highlighterLoading.js" type="text/javascript"></script>
 ```
